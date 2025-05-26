@@ -34,7 +34,7 @@ print("\n")
 pwd = input("Enter '0' to use the inbuilt passwords list \nEnter '2' to Add a custom password list\n => ")
 
 if pwd=='0':
-    passswfile="rockyou.txt"
+   
 
 elif pwd=='2':
     print("\n")
