@@ -1,2 +1,2 @@
-# Gmail-hack
-Bunla gmail hackleyebilirsiniz
+# Sosyal-medya-hack
+Bunla sosyal medya hesaplarını hackleyebilirsiniz
